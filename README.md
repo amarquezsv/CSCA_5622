@@ -17,9 +17,8 @@ CSCA 5622 Supervised Learning Final Project.ipynb
 
 ## Repository Structure
 ```
-├── data/                  # Dataset files
+├── data/                                                         # Dataset files
 │   ├── final_data.cvs        
-├── Kaggle_Leaderboard.png  # Leaderboard at Kaggle
-├── CSCA 5622 Supervised Learning Final Project.ipynb              # Source code
-├── README.md              # Project documentation
+├── CSCA 5622 Supervised Learning Final Project.ipynb            # Source code
+├── README.md                                                    # Project documentation
 ```
