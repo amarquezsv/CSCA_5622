@@ -8,7 +8,7 @@ For example,
 - pip install tensorflow
 
 ##  The data used is in the folder Data
-[[https://www.kaggle.com/competitions/gan-getting-started](https://archive.ics.uci.edu/dataset/222/bank+marketing)](https://archive.ics.uci.edu/dataset/222/bank+marketing)
+https://archive.ics.uci.edu/dataset/222/bank+marketing
 
 check data/ structure
 
